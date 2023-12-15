@@ -136,3 +136,13 @@ Now open the terminal and run the following commands
     python manage.py migrate
 
 And we are done with our backend. Now we can view, create, edit, and delete our products using API's
+
+
+# Setting up front-end in React JS
+
+install Node.js on your local machine to use React JS
+Download node.js from the <a href="https://nodejs.org/en/download">Node JS Official Website</a>
+Once installed, open your terminal and run the following commands
+
+    npm install -g create-react-app
+    npx create-react-app app_name
